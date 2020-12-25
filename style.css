@@ -15,18 +15,6 @@ header {
     background-color: #eee;
 }
 
-header * {
-    display: inline;
-    height: 50px;
-}
-
-header ul {
-    padding: 0;
-}
-
-header li {
-    margin-left: 20px;
-}
 
 section {
     height: 100vh;
