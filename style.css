@@ -41,11 +41,3 @@ section {
     background-repeat: no-repeat; /* Add this line */
     background-attachment: fixed; /* Add this line */
 }
-
-section h2 {
-    font-size: 2.5em;
-}
-
-section h3 {
-    font-size: 1.5em;
-}
